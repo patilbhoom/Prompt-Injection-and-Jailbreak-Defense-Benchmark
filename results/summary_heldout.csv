@@ -1,0 +1,4 @@
+detector,precision,recall,f1,false_positive_rate,paired_context_accuracy,TP,FP,FN,TN
+keyword,0.417,0.385,0.4,0.583,,10,14,16,10
+context_aware,0.625,0.192,0.294,0.125,,5,3,21,21
+llm,1.0,1.0,1.0,0.0,,26,0,0,24
