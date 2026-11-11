@@ -1,0 +1,9 @@
+config,attack_success_rate,false_refusal_rate,ASR_direct,ASR_indirect,ASR_evasive
+filter+hierarchy+output,0.0,0.0,0.0,0.0,0.0
+hierarchy+output,0.0,0.0,0.0,0.0,0.0
+filter+output,0.042,0.083,0.0,0.125,0.0
+filter+hierarchy,0.083,0.0,0.0,0.125,0.125
+hierarchy,0.083,0.0,0.0,0.125,0.125
+output,0.125,0.083,0.125,0.25,0.0
+filter,0.333,0.0,0.25,0.375,0.375
+none,0.5,0.0,0.5,0.625,0.375
